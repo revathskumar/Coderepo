@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.phprepo.in/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.2.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.6" -->
+<!-- generated-on="September 29, 2011 7:45 pm" -->
+<!-- Debug: Total comment count: 91 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://www.phprepo.in/</loc>
+		<lastmod>2011-09-29T19:44:48+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 225: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/09/symfony-configure-database-using-command/</loc>
+		<lastmod>2011-09-29T19:44:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 179: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/09/adding-virtual-host-in-apache-on-ubuntu/</loc>
+		<lastmod>2011-09-27T20:12:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 116: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/08/rename-a-table-or-column-in-mysql/</loc>
+		<lastmod>2011-08-18T15:27:15+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 160: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/08/symfony-using-isset-on-sfoutputescaperobjectdecorator/</loc>
+		<lastmod>2011-08-17T18:53:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 123: Comments: 73 of 91 = 0.8 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/06/take-your-friends-into-google-plus-without-invitation/</loc>
+		<lastmod>2011-08-16T13:32:10+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.8</priority>
+	</url>
+<!-- Debug: Priority report of postID 147: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/08/add-colour-to-your-git-output-in-terminal/</loc>
+		<lastmod>2011-08-03T17:51:47+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 127: Comments: 1 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/07/send-sms-from-php-using-way2sms-updated/</loc>
+		<lastmod>2011-07-16T15:31:22+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.phprepo.in/about/</loc>
+		<lastmod>2011-07-13T06:30:16+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 102: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/07/edit-view-in-phpmyadmin/</loc>
+		<lastmod>2011-07-12T10:43:50+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 125: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/07/install-redis-server-on-ubuntu/</loc>
+		<lastmod>2011-07-12T06:24:45+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 88: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/06/change-default-storage-engine-in-mysql/</loc>
+		<lastmod>2011-06-06T16:20:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 55: Comments: 0 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/05/sqlsrv-date-time-converstion/</loc>
+		<lastmod>2011-05-30T11:22:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 5: Comments: 3 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/02/get-last-date-of-this-month-in-php/</loc>
+		<lastmod>2011-04-19T14:19:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 52: Comments: 1 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/03/install-pear-and-php-unit/</loc>
+		<lastmod>2011-03-28T15:31:35+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 14: Comments: 2 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/03/cakephp-acl-group-level-permission/</loc>
+		<lastmod>2011-03-24T16:51:25+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 24: Comments: 3 of 91 = 0 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/02/a-better-for-loop/</loc>
+		<lastmod>2011-03-24T16:50:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 15: Comments: 6 of 91 = 0.1 points -->
+	<url>
+		<loc>http://www.phprepo.in/2011/02/cakephp-sqlsrv-dbo/</loc>
+		<lastmod>2011-03-24T16:49:39+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.phprepo.in/site-map/</loc>
+		<lastmod>2011-02-19T17:24:25+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.phprepo.in/ping-us/</loc>
+		<lastmod>2011-02-18T17:19:47+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
