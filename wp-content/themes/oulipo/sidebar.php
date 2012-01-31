@@ -39,6 +39,22 @@
       </ul>
       <p class="edit"><?php edit_post_link('Edit', '', ''); ?></p>
     </div>
+    <div>
+      <h3>Sponsers</h3>
+      <p>
+        <script type="text/javascript"><!--
+          google_ad_client = "ca-pub-4703206129601829";
+          /* PHPrepo-sidebar */
+          google_ad_slot = "1680021461";
+          google_ad_width = 200;
+          google_ad_height = 200;
+          //-->
+          </script>
+          <script type="text/javascript"
+          src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+        </script>
+      </p>
+    </div>
     
     <ul>
       <?php if ( !function_exists('dynamic_sidebar')
