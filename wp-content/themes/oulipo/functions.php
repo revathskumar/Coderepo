@@ -79,4 +79,11 @@ function legacy_comments( $file ) {
   $file = TEMPLATEPATH . '/legacy.comments.php';
   return $file;
 }
+
+function block_wp_comments() {
+  wp_die( __('Sorry, comments are closed for this item.') );
+}
+// end of block_wp_comments()
+ 
+add_action('pre_comment_on_post', 'block_wp_comments');
 ?>
